@@ -5,7 +5,7 @@
   <Version>0.3.1.0</Version>
   <Label>Docker Extension</Label>
   <HostingResources>VmRole</HostingResources>
-  <MediaLink>http://jlmpublishing.blob.core.windows.net/extensions/docker-handler3.zip</MediaLink>
+  <MediaLink>http://msotpublishing.blob.core.chinacloudapi.cn/extensions/docker-handler.zip</MediaLink>
   <Description>Docker Extension</Description>
   <PublisherName>Microsoft Open Technologies</PublisherName>
   <IsInternalExtension>false</IsInternalExtension>
